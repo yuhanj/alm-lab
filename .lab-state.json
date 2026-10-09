@@ -4,5 +4,8 @@
   "tenantId": "72f988bf-86f1-41af-91ab-2d7cd011db47",
   "slnxName": "WarehouseManagement",
   "publisherName": "ALMLab",
-  "publisherPrefix": "almlab"
+  "publisherPrefix": "almlab",
+  "repo": "yuhanj/alm-lab",
+  "mainRulesetId": 24821682,
+  "mainRulesetName": "alm-lab-main-protection"
 }
